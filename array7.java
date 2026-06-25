@@ -8,7 +8,8 @@ public class array7 {
             }
             System.out.print(arr[i] + " ");
         }
-        System.out.println();
-        
+        System.out.println();  
     }
 }
+
+//Accessing and updating elements in an array

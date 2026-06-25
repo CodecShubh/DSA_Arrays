@@ -10,3 +10,5 @@ public class array6 {
     System.out.println("Min in array is : " + min);
    } 
 }
+
+//Finding minimum element of an array

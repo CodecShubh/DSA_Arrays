@@ -10,3 +10,5 @@ public class array5 {
        System.out.print("Max number in array is : " + max);
     }
 }
+
+//Finding max element of an array
