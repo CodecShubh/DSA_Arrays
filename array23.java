@@ -25,3 +25,5 @@ public class array23 {
         }
     }
 }
+
+//study the flow of this code neetly
